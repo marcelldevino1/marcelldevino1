@@ -23,13 +23,6 @@ I'm passionate about building elegant solutions to complex problems. Currently e
 
 <!-- Add more badges for your actual tech stack -->
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelldevino1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelldevino1&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
