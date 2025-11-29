@@ -17,24 +17,15 @@ I'm passionate about building elegant solutions to complex problems. Currently e
 
 ### 🛠️ Tech Stack
 
-![Your Skills](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![Your Skills](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![Your Skills](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,figma,laravel,php,nodejs,react,vite,mongodb,mysql,tailwind)](https://skillicons.dev,)
+[![My Skills](https://skillicons.dev/icons?i=github,git,java)](https://skillicons.dev,)
 
 <!-- Add more badges for your actual tech stack -->
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelldevino1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelldevino1&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://yourportfolio.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nethxs_code) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelldevino1) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=6289517505595) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://instagram.com/nethxs_code)
 
 ---
 
@@ -43,5 +34,5 @@ I'm passionate about building elegant solutions to complex problems. Currently e
 </div>
 
 <div align="center">
-  💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+  “It’s not a bug, it’s an unexpected feature.”
 </div>
